@@ -1,0 +1,37 @@
+{
+  "name": "trezo-react",
+  "version": "2.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fullcalendar/daygrid": "^6.1.15",
+    "@fullcalendar/react": "^6.1.15",
+    "apexcharts": "^4.2.0",
+    "bootstrap": "^5.3.3",
+    "echarts": "^5.5.1",
+    "formik": "^2.4.6",
+    "next": "^15.1.0",
+    "react": "^19",
+    "react-apexcharts": "^1.7.0",
+    "react-bootstrap": "^2.10.7",
+    "react-calendar": "^5.1.0",
+    "react-datetime-picker": "^6.0.1",
+    "react-dom": "^19",
+    "react-material-symbols": "^4.4.0",
+    "react-select": "^5.9.0",
+    "react-svg-worldmap": "^2.0.0-alpha.16",
+    "react-tabs": "^6.0.2",
+    "remixicon": "^4.5.0",
+    "swiper": "^11.1.15",
+    "yup": "^1.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.17.0",
+    "eslint-config-next": "^15.1.0"
+  }
+}
